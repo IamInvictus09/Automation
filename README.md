@@ -1,2 +1,2 @@
-# Automation
-Scripts for making life easier 
+# Base
+Scripts for making life easier
